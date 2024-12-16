@@ -8,8 +8,16 @@ The goal of this project is to analyze the customer behavior of an e-commerce pl
 The company wants to better understand its customer base to tailor marketing efforts and improve the customer experience. By segmenting customers into meaningful groups, we can personalize promotions and recommendations.
 
 **Methodology**
-+ **Data collection:** Data source, Data features
-+ **Data cleaning:** Remove duplicates, Handle missing values
-+ **Analysis:** Univariate analysis, Bivariate analysis, Customer demographics
-+ **Customer Segmentation using Clustering:** Clustering Techniques, Hierarchical Clustering
-+ **Cluster Analysis and Profiling:** Analysis of Clusters, Cluster Labels, Visual Representation
++ **Data collection:** Data source, Data features.
++ **Data cleaning:** Remove duplicates, Handle missing values.
++ **Analysis:** Univariate analysis, Bivariate analysis, Customer demographics.
++ **Customer Segmentation using Clustering:** Clustering Techniques, Hierarchical Clustering.
++ **Cluster Analysis and Profiling:** Analysis of Clusters, Cluster Labels, Visual Representation.
+
+---
+**Data Source**
+The data set was from an e-commerce platform, typically available from sources such as Kaggle.
+
+---
+**Tools and Technologies**
+
