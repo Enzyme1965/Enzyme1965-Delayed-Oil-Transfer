@@ -30,12 +30,13 @@ The data set was from an e-commerce platform, typically available from sources s
    + Plotly or Dash for interactive visualizations (if applicable)
 3. **Jupyter Notebook:** for analysis and presentation
 
+---
 **Exploratory Data Analysis (EDA)**
 1. Univariate Analysis:
-+ Visualize the distribution of key features (TotalPurchase, Recency, Frequency, Monetary) using histograms, boxplots, and density plots to understand their spread.
+     + Visualize the distribution of key features (TotalPurchase, Recency, Frequency, Monetary) using histograms, boxplots, and density plots to understand their spread.
 2. Bivariate Analysis:
-+ Explore relationships between variables (e.g., how Recency correlates with Monetary).
-+ Use scatter plots and correlation heatmaps to reveal relationships between Recency, Frequency, and Monetary.
+    + Explore relationships between variables (e.g., how Recency correlates with Monetary).
+    + Use scatter plots and correlation heatmaps to reveal relationships between Recency, Frequency, and Monetary.
 3. Customer Demographics:
-+ Analyze how customers are distributed across different Countries or Regions.
+    + Analyze how customers are distributed across different Countries or Regions.
 
