@@ -20,4 +20,13 @@ The data set was from an e-commerce platform, typically available from sources s
 
 ---
 **Tools and Technologies**
+1. **Programming Languages:** Python (for data analysis and machine learning)
+2. **Libraries:**
+   + Pandas for data manipulation
+   + NumPy for numerical calculations
+   + Matplotlib and Seaborn for data visualization
+   + Scikit-learn for clustering and model evaluation
+   + KMeans, AgglomerativeClustering for clustering
+   + Plotly or Dash for interactive visualizations (if applicable)
+3. **Jupyter Notebook:** for analysis and presentation
 
